@@ -1,2 +1,4 @@
 .log
 .pycache
+trading_env
+.ipynb_checkpoints/
